@@ -1,0 +1,6 @@
+Computer Vision: assignment
+
+Using the Fourier transform to perform high-pass filtering on an image. 
+Use the code found in the repository https://github.com/dip-course/crashcourse-python-numpy-scipy. The code (which we saw in class) applies a low-pass filter. 
+Make direct changes to this code to filter the given image with a high-pass filter of your choice. 
+The output is the modified notebook file.
